@@ -2,9 +2,7 @@
 
 Mute Publishing - Git repository for archive organisation
 
-Mastodon: https://fosstodon.org/@metamute #mutearchive
-
-Contact: Simon Worthington #bookliberationist - simon.worthington@posteo.de - [@mrchristian@openbiblio.social](https://openbiblio.social/@mrchristian) 
+Mastodon: [fosstodon.org/@metamute](https://fosstodon.org/@metamute) #mutearchive
 
 [Discussion](https://github.com/orgs/Mute-Publishing/discussions)
 
