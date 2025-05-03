@@ -6,7 +6,7 @@ Mastodon: [fosstodon.org/@metamute](https://fosstodon.org/@metamute) #mutearchiv
 
 [Discussion](https://github.com/orgs/Mute-Publishing/discussions)
 
-[Project Tasks](https://github.com/orgs/Mute-Publishing/projects/1)
+[Project Tasks](https://github.com/orgs/Mute-Publishing/projects/1) - please volunteer
 
 Contact: Simon Worthington #bookliberationist - simon.worthington@posteo.de - [@mrchristian@openbiblio.social](https://openbiblio.social/@mrchristian) 
 
