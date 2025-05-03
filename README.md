@@ -16,7 +16,7 @@ Mastodon: [fosstodon.org/@metamute](https://fosstodon.org/@metamute) #mutearchiv
 
 #### To do
 
-  - Design data model for magazine issues and articles #2
+  - Design data model for magazine issues and articles - [issue #2](https://github.com/Mute-Publishing/mute-archive/issues/22)
   - Catalogue issues in Wikidata and Wikibase Cloud
   - Add a sample article to Wikidata
   - Add Issues covers to Wikimedia Commons
