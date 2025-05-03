@@ -10,7 +10,7 @@ Mastodon: [fosstodon.org/@metamute](https://fosstodon.org/@metamute) #mutearchiv
 
 Contact: Simon Worthington #bookliberationist - simon.worthington@posteo.de - [@mrchristian@openbiblio.social](https://openbiblio.social/@mrchristian) 
 
-  * [Mute Archive Plan](https://demo.hedgedoc.org/s/glrS0p_3O)
+  * [Mute Archive Plan](https://github.com/Mute-Publishing/mute-archive/wiki/Archive-plan)
   * [Mute Archive Guide](https://github.com/Mute-Publishing/mute-archive/wiki)
   
 
