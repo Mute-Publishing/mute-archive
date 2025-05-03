@@ -4,6 +4,27 @@ Mute Publishing - Git repository for archive organisation
 
 Mastodon: [fosstodon.org/@metamute](https://fosstodon.org/@metamute) #mutearchive
 
+## Mute Archive 
+
+### Phase #1 (>May 2025): Digital cataloguing and scoping
+
+#### Done
+
+  - Organisation ID setup, ROR: https://ror.org/002g5jp68
+  - Wikidata for organisation made: https://www.wikidata.org/wiki/Q115486583
+  - Scholia record: https://scholia.toolforge.org/publisher/Q115486583
+
+#### To do
+
+  - Design data model for magazine issues and articles
+  - Catalogue issues in Wikidata and Wikibase Cloud
+  - Add a sample article to Wikidata
+  - Add Issues covers to Wikimedia Commons
+  - Create a Wikimedia Group
+  - Create a Wikibase Cloud instance for Mute
+
+## Info
+
 [Discussion](https://github.com/orgs/Mute-Publishing/discussions)
 
 [Project Tasks and work log](https://github.com/orgs/Mute-Publishing/projects/1) - please volunteer
