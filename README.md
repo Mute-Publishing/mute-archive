@@ -4,6 +4,11 @@ Mute Publishing - Git repository for archive organisation
 
 Mastodon: [fosstodon.org/@metamute](https://fosstodon.org/@metamute) #mutearchive
 
+## News and meetings
+
+  - News - https://archive.metamute.org/
+  - Next working meeting - https://archive.metamute.org/events/
+
 ## Mute Archive 
 
 ### Phase #1 (>May 2025): Digital cataloguing and scoping
