@@ -8,6 +8,14 @@ _The Mute magazine archive_
   - Hosts PubFest events: Exploratory republishing fiestas
   - Coordinate working group meetings
 
+## Fundraiser
+
+Support **Corpus Mute** by purchasing a copy of the Mute Print Archive. A limited edition of only one-hundred complete sets of all of the magazine print copies - from the famous FT broadsheets, through glossy magazine series, to the pocket book volume.
+
+  - Buy the **Mute Print Archive**: The original set of all fifty-one issues of the print versions of the magazine, covering twenty years of publishing from 1994 to 2014. The arcive is availabe in three price bands: 1. Contributors and supporters 2. Standard price, and 3. Corpus Mute sponsors.
+
+[Info and purchase link!](https://archive.metamute.org/product/mute-magazine-print-archive/)
+
 ## The work
 
 ### Phase #1 (≥June 2025): Digital cataloguing and scoping
