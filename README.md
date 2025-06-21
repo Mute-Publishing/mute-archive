@@ -10,7 +10,7 @@ _The Mute magazine archive_
 
 ## Fundraiser
 
-Support **Corpus Mute** by purchasing a copy of the Mute Print Archive or by donations and sponsorship.
+Support the **Corpus Mute** work by purchasing a copy of the Mute Print Archive or by donations and sponsorship.
 
 A limited edition of only one-hundred complete print magazine sets including the famous FT broadsheet edition, through glossy magazine series, to the pocket book volume.
 
