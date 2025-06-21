@@ -2,21 +2,17 @@
 
 _The Mute magazine archive_
 
-## News 
+## The project
 
-  - News - https://archive.metamute.org/
+  - Catalogue Mute's publishing, projects, and network 
+  - Hosts PubFest events: Exploratory republishing fiestas
+  - Coordinate working group meetings
 
 ## The work: Cataloguing, events, & meetings 
 
 ### Phase #1 (≥June 2025): Digital cataloguing and scoping
 
-#### Done
-
-  - Organisation ID setup, ROR: https://ror.org/002g5jp68
-  - Wikidata for organisation made: https://www.wikidata.org/wiki/Q115486583
-  - Scholia record: https://scholia.toolforge.org/publisher/Q115486583
-
-#### To do
+#### Tasks
 
   - Design data model for magazine issues and articles - [issue #2](https://github.com/Mute-Publishing/mute-archive/issues/2)
   - Catalogue issues in Wikidata and Wikibase Cloud
