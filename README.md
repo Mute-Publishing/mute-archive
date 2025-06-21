@@ -4,7 +4,7 @@ _The Mute magazine archive_
 
 ## The project
 
-  - Catalogue Mute's publishing, projects, and network 
+  - Catalogue Mute's publishing, projects, and networks
   - Hosts PubFest events: Exploratory republishing fiestas
   - Coordinate working group meetings
 
