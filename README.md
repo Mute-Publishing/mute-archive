@@ -12,7 +12,7 @@ _The Mute magazine archive_
 
 Support the **Corpus Mute** work by purchasing a copy of the Mute Print Archive or by donations and sponsorship.
 
-**Mute Print Archive:** A limited edition of only one-hundred complete print magazine sets including the famous FT broadsheet edition, through glossy magazine series, to the pocket book volume.
+**Mute Print Archive:** A limited edition set of the complete print magazine — including the famous FT broadsheet edition, through the glossy magazine series, to the pocket book volume.
 
   - Buy the **Mute Print Archive**: The original set of all fifty-one issues of the print versions of the magazine, covering twenty years of publishing from 1994 to 2014.
   
@@ -20,7 +20,7 @@ Support the **Corpus Mute** work by purchasing a copy of the Mute Print Archive 
 
       1. Contributors and supporters: 935 € (50% discount);
       2. Standard: 1850 €, and;
-      3. Sponsors: See options.
+      3. Sponsors: Options available.
          
   - Donatations and sponsorship: [Financial donations welcome](https://archive.metamute.org/). ❤
 
