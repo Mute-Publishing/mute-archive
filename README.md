@@ -16,11 +16,14 @@ A limited edition of only one-hundred complete print magazine sets including the
 
   - Buy the **Mute Print Archive**: The original set of all fifty-one issues of the print versions of the magazine, covering twenty years of publishing from 1994 to 2014.
   
-    The archive is availabe in three price bands:
+    The archive is availabe in three price bands.
 
-    - 1. Contributors and supporters: 935 € (50% discount);
+    [Info and purchase link!](https://archive.metamute.org/product/mute-magazine-print-archive/):
+
+      1. Contributors and supporters: 935 € (50% discount);
       2. Standard: 1850 €, and;
-      3. Sponsors: See options €. [Info and purchase link!](https://archive.metamute.org/product/mute-magazine-print-archive/)
+      3. Sponsors: See options €.
+         
   - Donatations and sponsorship: [Financial donations welcome](https://archive.metamute.org/). ❤
 
 ## The work
