@@ -12,7 +12,7 @@ _The Mute magazine archive_
 
 Support the **Corpus Mute** work by purchasing a copy of the Mute Print Archive or by donations and sponsorship.
 
-A limited edition of only one-hundred complete print magazine sets including the famous FT broadsheet edition, through glossy magazine series, to the pocket book volume.
+**Mute Print Archive:** A limited edition of only one-hundred complete print magazine sets including the famous FT broadsheet edition, through glossy magazine series, to the pocket book volume.
 
   - Buy the **Mute Print Archive**: The original set of all fifty-one issues of the print versions of the magazine, covering twenty years of publishing from 1994 to 2014.
   
