@@ -8,7 +8,7 @@ _The Mute magazine archive_
   - Hosts PubFest events: Exploratory republishing fiestas
   - Coordinate working group meetings
 
-## The work: Cataloguing, events, & meetings 
+## The work
 
 ### Phase #1 (≥June 2025): Digital cataloguing and scoping
 
@@ -21,16 +21,18 @@ _The Mute magazine archive_
   - Create a Wikimedia Group
   - Create a Wikibase Cloud instance for Mute
 
-## Info
+## Info, documentation, and contact
 
 [Discussion](https://github.com/orgs/Mute-Publishing/discussions)
 
 [Project Tasks and work log](https://github.com/orgs/Mute-Publishing/projects/1) - please volunteer
 
-Contact: Simon Worthington #bookliberationist - simon@metamute.org - [@mrchristian@openbiblio.social](https://openbiblio.social/@mrchristian) 
-
   * [Mute Archive Plan](https://github.com/Mute-Publishing/mute-archive/wiki/Archive-plan)
   * [Mute Archive Guide](https://github.com/Mute-Publishing/mute-archive/wiki)
+
+Contact: Simon Worthington #bookliberationist - simon@metamute.org - [@mrchristian@openbiblio.social](https://openbiblio.social/@mrchristian) 
+
+
   
 
 
