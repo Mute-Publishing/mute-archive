@@ -1,17 +1,14 @@
-# Mute Publishing Archive
+# Corpus Mute
 
-Mute Publishing - Git repository for archive organisation
+_The Mute magazine archive_
 
-Mastodon: [fosstodon.org/@metamute](https://fosstodon.org/@metamute) #mutearchive
-
-## News and meetings
+## News 
 
   - News - https://archive.metamute.org/
-  - Next working meeting - https://archive.metamute.org/events/
 
-## Mute Archive 
+## The work: Cataloguing, events, & meetings 
 
-### Phase #1 (>May 2025): Digital cataloguing and scoping
+### Phase #1 (≥June 2025): Digital cataloguing and scoping
 
 #### Done
 
@@ -34,7 +31,7 @@ Mastodon: [fosstodon.org/@metamute](https://fosstodon.org/@metamute) #mutearchiv
 
 [Project Tasks and work log](https://github.com/orgs/Mute-Publishing/projects/1) - please volunteer
 
-Contact: Simon Worthington #bookliberationist - simon.worthington@posteo.de - [@mrchristian@openbiblio.social](https://openbiblio.social/@mrchristian) 
+Contact: Simon Worthington #bookliberationist - simon@metamute.org - [@mrchristian@openbiblio.social](https://openbiblio.social/@mrchristian) 
 
   * [Mute Archive Plan](https://github.com/Mute-Publishing/mute-archive/wiki/Archive-plan)
   * [Mute Archive Guide](https://github.com/Mute-Publishing/mute-archive/wiki)
