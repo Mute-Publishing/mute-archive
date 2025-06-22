@@ -12,7 +12,7 @@ _The Mute magazine archive_
 
 Support the **Corpus Mute** work by purchasing a copy of the Mute Print Archive or by donations and sponsorship.
 
-See here for information on the budget requirements for the archival project.
+See here for information on the [budget requirements](budget.md) for the archival project.
 
 **Mute Print Archive:** A limited edition set of the complete print magazine — including the famous FT broadsheet edition, through the glossy magazine series, to the pocket book volume.
 
@@ -29,7 +29,7 @@ See here for information on the budget requirements for the archival project.
 
     All Mute Print Archive purchasing information can be found here — [info and purchase link](https://archive.metamute.org/product/mute-magazine-print-archive/).
          
-  - Donatations. We use Liberapay to accept donations <img src="https://img.shields.io/liberapay/goal/Mute.svg?logo=liberapay"> ❤ 
+  - Donatations. We use Liberapay to accept donations [<img src="https://img.shields.io/liberapay/goal/Mute.svg?logo=liberapay">](https://liberapay.com/Mute/) ❤ 
 
 ## Call for volunteers to join the working group
 
